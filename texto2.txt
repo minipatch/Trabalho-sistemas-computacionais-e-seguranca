@@ -1,0 +1,13 @@
+id;produto
+1;cano
+2;tomada
+3;lampada 
+4;parafuso
+5;areia
+6;cimento
+7;pedras
+8;ferro
+9;bucha
+10;porcas
+11;rebites
+12;chumbadores 

@@ -1,0 +1,11 @@
+CPF;Nome Completo;Estado
+362.768.910-52;Lucas Almeida;SP
+205.391.580-01;Mariana Ferreira;RJ
+723.184.470-96;Pedro Silva;MG
+498.051.620-30;Ana Costa;BA
+174.290.630-85;João Oliveira;PR
+321.765.830-49;Camila Santos;SC
+870.429.920-71;Thiago Pereira;RS
+529.603.740-19;Gabriela Souza;SP
+106.293.860-28;Felipe Cardoso;RJ
+234.675.990-10;Renata Rocha;ES
